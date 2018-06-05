@@ -1,2 +1,2 @@
 # RPG-Game
-Assignment 4 RGB Game
+Assignment 4 RPG Game
