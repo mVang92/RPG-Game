@@ -14,12 +14,16 @@ header {
     margin-bottom: 10px;
 }
 
-.box {
+.box, #battleBox {
     background-color: bisque;
     margin: auto;
     width: 80%;
     border: 1px solid black;
     padding: 15px;
+}
+
+#battleBox {
+    height: 375px;
 }
 
 .charBox, .tag {
